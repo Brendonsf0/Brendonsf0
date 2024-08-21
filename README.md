@@ -12,4 +12,5 @@
 </div>
 
 ##
-![snake animation](https://github.com/<Brendonsf0>/<brendonsf0>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/<Brendonsf0>/<brendonsf0>/blob/output/github-contribution-grid-snake.gif)
+
