@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o Brendon! 👋
 
-![Brendonsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendonsf0&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendonsf0&hide_progress=true)
+![Brendonsf GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendonsf0&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brendonsf0&hide_progress=true)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Bre-Py" height="80" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
